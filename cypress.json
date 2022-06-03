@@ -1,0 +1,6 @@
+{
+    //"watchForFileChanges" : true
+    "watchForFileChanges" : false,
+    "defaultCommandTimeout": 20000       //in reference to access_elements.js class
+
+}
